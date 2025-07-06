@@ -1,10 +1,8 @@
 The University Management System is a Java-based desktop application developed using Java Swing and external libraries for the front-end development and MySQL and Java for the back-end development.
-
 It allows administrators to add student and faculty records, update and delete them, search for specific entries, apply for leaves and access leaves data as well.
-
 In addition to this, the project showcases a well-designed loading screen, login authentication page and a home page which provides access to all the features.
-
 The purpose of this system is to simplify administrative tasks and provide a user-friendly interface to access and manage academic records efficiently.
+
 
 MODULES:
 
