@@ -25,8 +25,13 @@ MODULES:
 •	Add Student Marks: Allows entry of marks for students in different subjects and semesters.
 
 •	Student Result: View the academic results of the students.
+
 •	Home Page: The main dashboard that links to all the features of the program.
+
 •	Apply Student Leave: Allows submission of students leave requests.
+
 •	Apply Teacher Leave: Allows submission of teacher leave requests.
+
 •	Student Leave Information: Displays the leave records/status of the students.
+
 •	Teacher Leave Information: Displays the leave records/status of the teachers.
